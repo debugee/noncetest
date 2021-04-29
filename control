@@ -1,0 +1,9 @@
+Package: kr.xsf1re.noncetest
+Name: noncetest
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: xsf1re
+Author: xsf1re
+Section: System
+Tag: role::hacker
